@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Hub Spot automation Suite" duration-ms="59900" started-at="2020-04-06T05:45:44Z" finished-at="2020-04-06T05:46:43Z">
+  <suite name="Hub Spot automation Suite" duration-ms="55199" started-at="2020-04-06T06:01:47Z" finished-at="2020-04-06T06:02:42Z">
     <groups>
     </groups>
-    <test name="Hubspot login Test" duration-ms="59900" started-at="2020-04-06T05:45:44Z" finished-at="2020-04-06T05:46:43Z">
+    <test name="Hubspot login Test" duration-ms="55199" started-at="2020-04-06T06:01:47Z" finished-at="2020-04-06T06:02:42Z">
       <class name="com.qa.tests.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="11685" started-at="2020-04-06T05:45:44Z" finished-at="2020-04-06T05:45:55Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="11127" started-at="2020-04-06T06:01:47Z" finished-at="2020-04-06T06:01:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTest()[pri:1, instance:com.qa.tests.LoginTest@3b938003]" name="loginPageTest" duration-ms="8341" started-at="2020-04-06T05:45:55Z" finished-at="2020-04-06T05:46:04Z">
+        <test-method status="PASS" signature="loginPageTest()[pri:1, instance:com.qa.tests.LoginTest@3b938003]" name="loginPageTest" duration-ms="5806" started-at="2020-04-06T06:01:58Z" finished-at="2020-04-06T06:02:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="654" started-at="2020-04-06T05:46:04Z" finished-at="2020-04-06T05:46:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="643" started-at="2020-04-06T06:02:04Z" finished-at="2020-04-06T06:02:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="12024" started-at="2020-04-06T05:46:04Z" finished-at="2020-04-06T05:46:16Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="10270" started-at="2020-04-06T06:02:04Z" finished-at="2020-04-06T06:02:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="signUpLinkTest()[pri:2, instance:com.qa.tests.LoginTest@3b938003]" name="signUpLinkTest" duration-ms="5915" started-at="2020-04-06T05:46:16Z" finished-at="2020-04-06T05:46:22Z">
+        <test-method status="PASS" signature="signUpLinkTest()[pri:2, instance:com.qa.tests.LoginTest@3b938003]" name="signUpLinkTest" duration-ms="5886" started-at="2020-04-06T06:02:15Z" finished-at="2020-04-06T06:02:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signUpLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="636" started-at="2020-04-06T05:46:22Z" finished-at="2020-04-06T05:46:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-04-06T06:02:21Z" finished-at="2020-04-06T06:02:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="10976" started-at="2020-04-06T05:46:23Z" finished-at="2020-04-06T05:46:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="setUp" is-config="true" duration-ms="10336" started-at="2020-04-06T06:02:21Z" finished-at="2020-04-06T06:02:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login1Test()[pri:3, instance:com.qa.tests.LoginTest@3b938003]" name="login1Test" duration-ms="8866" started-at="2020-04-06T05:46:34Z" finished-at="2020-04-06T05:46:43Z">
+        <test-method status="PASS" signature="login1Test()[pri:3, instance:com.qa.tests.LoginTest@3b938003]" name="login1Test" duration-ms="9642" started-at="2020-04-06T06:02:31Z" finished-at="2020-04-06T06:02:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login1Test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="645" started-at="2020-04-06T05:46:43Z" finished-at="2020-04-06T05:46:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@3b938003]" name="tearDown" is-config="true" duration-ms="655" started-at="2020-04-06T06:02:41Z" finished-at="2020-04-06T06:02:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
