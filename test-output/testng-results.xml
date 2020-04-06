@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hub Spot automation Suite" duration-ms="56865" started-at="2020-04-06T05:44:15Z" finished-at="2020-04-06T05:45:12Z">
+    <groups>
+    </groups>
+    <test name="Hubspot login Test" duration-ms="56865" started-at="2020-04-06T05:44:15Z" finished-at="2020-04-06T05:45:12Z">
+      <class name="com.qa.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="setUp" is-config="true" duration-ms="11377" started-at="2020-04-06T05:44:15Z" finished-at="2020-04-06T05:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest()[pri:1, instance:com.qa.tests.LoginTest@47542153]" name="loginPageTest" duration-ms="6653" started-at="2020-04-06T05:44:27Z" finished-at="2020-04-06T05:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="tearDown" is-config="true" duration-ms="634" started-at="2020-04-06T05:44:33Z" finished-at="2020-04-06T05:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="setUp" is-config="true" duration-ms="10311" started-at="2020-04-06T05:44:34Z" finished-at="2020-04-06T05:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUpLinkTest()[pri:2, instance:com.qa.tests.LoginTest@47542153]" name="signUpLinkTest" duration-ms="5831" started-at="2020-04-06T05:44:44Z" finished-at="2020-04-06T05:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="tearDown" is-config="true" duration-ms="652" started-at="2020-04-06T05:44:50Z" finished-at="2020-04-06T05:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="setUp" is-config="true" duration-ms="10257" started-at="2020-04-06T05:44:51Z" finished-at="2020-04-06T05:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1Test()[pri:3, instance:com.qa.tests.LoginTest@47542153]" name="login1Test" duration-ms="10315" started-at="2020-04-06T05:45:01Z" finished-at="2020-04-06T05:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTest@47542153]" name="tearDown" is-config="true" duration-ms="667" started-at="2020-04-06T05:45:11Z" finished-at="2020-04-06T05:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginTest -->
+    </test> <!-- Hubspot login Test -->
+  </suite> <!-- Hub Spot automation Suite -->
+</testng-results>
